@@ -13,7 +13,7 @@
                     $("#carouselButton").children("span").addClass('fa-pause');                    
                 }
             });
-            });
+
 
             
               $("#bookingbtn").click(function(){
@@ -25,4 +25,5 @@
                 $("#loginbtn").click(function(){
                     $("#loginmodal").modal();
                 });
+              });
             
